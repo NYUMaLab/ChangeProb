@@ -1,4 +1,6 @@
-# Human Online Adaptation to Changes in Prior Probability
+# Human Online Adaptation to Changes in Prior Probability (archival copy)
+
+This is a Ma lab copy of the original GitHub repository and code base, kept here for archival purposes. Please go to https://github.com/lacerbi/ChangeProb for possible updates.
 
 This repository accompanies the article by Norton et al. (2019) [[1](https://github.com/lacerbi/ChangeProb/blob/master/README.md#reference)].
 It includes human subjects' data and the code used for fitting and comparing the models reported in the paper.
